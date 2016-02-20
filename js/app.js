@@ -79,7 +79,7 @@
         }
       });
     }
-  }
+0  }
 
   function publishArticle() {
     var slug = articleTitle.value.toLowerCase().replace(/[^a-z0-9]/ig, '-');
